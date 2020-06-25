@@ -1,8 +1,8 @@
-#Invoice Payment Module
+<h1>Invoice Payment Module</h1>
 
 <h3>Установка</h3>
 
-1. Скачайте [архив](invoice.su)
+1. Скачайте [архив](https://github.com/Invoice-LLC/Invoice.Module.NetCat/archive/master.zip)
 2. Распакуйте архив в корневую директорию сайта
 3. Выполните файл invoice.sql в бд вашего сайта
 5. Перейдите во вкладку **Настройки->Прием платежей** в админ-панели и включите плагин Invoice
